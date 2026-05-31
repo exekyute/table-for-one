@@ -1,6 +1,8 @@
 # Table for One
 
-A concept food blog: a quiet diary kept from the eating side of the table rather than the kitchen. Each post is a short, unhurried note about a single meal, where it was, and how it landed, set against a faint photo backdrop and a warm pearl off-white page. The tone is calm and personal, and the content leans closer to a journal than a review site.
+A concept food blog: a quiet diary kept from the eating side of the table rather than the kitchen. Each post is a short, unhurried note about a single meal, where it was, and how it landed, set against a faint photo backdrop and a warm pearl off-white page. The tone is calm and personal, closer to a journal than a review site.
+
+**Live site:** https://exekyute.github.io/table-for-one/
 
 ## What it has
 
