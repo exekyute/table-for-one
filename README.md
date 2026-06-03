@@ -4,6 +4,8 @@ A concept food blog: a quiet diary kept from the eating side of the table rather
 
 **Live site:** https://exekyute.github.io/table-for-one/
 
+> **Note:** The entries shipped in `index.html` are placeholder (Lorem Ipsum) sample posts that demonstrate the layout. Swap them for real entries to make it your own.
+
 ## What it has
 
 - **Minimalist reading layout** built around a single comfortable column and a literary serif (Spectral).
